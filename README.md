@@ -1,4 +1,4 @@
-# Desafio
-Desafio Data Analyst
+# Gaming App Analysis
 
-El archivo de Limpieza esta escrito en Python, algunas lineas estan comentadas porque las usé para explorar la data y decidir donde habia que limpiar y donde no. De todas formas antes de cada linea de codigo documenté que estaba haciendo.
+
+This is a simple EDA with python for a gaming app analysis, you can find the dashboard with the CTA's and the actual analysis in Tableau https://public.tableau.com/profile/ivan.tomaselli#!/vizhome/AnalisisdeApp/AnalisisdeApp.
